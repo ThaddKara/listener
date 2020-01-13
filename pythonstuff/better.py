@@ -1,6 +1,6 @@
 import socket
 
-HOST = '34.244.81.87'  # The server's hostname or IP address
+HOST = '127.0.0.1'  # The server's hostname or IP address
 PORT = 8051         # The port used by the server
 BUFFER_SIZE = 1024
 

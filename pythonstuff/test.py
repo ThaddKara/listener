@@ -2,7 +2,7 @@ import sys
 import socket
 import select
 
-TCP_IP = '34.244.81.87'
+TCP_IP = '127.0.0.1'
 TCP_PORT = 8051
 BUFFER_SIZE = 1024
 param = []
